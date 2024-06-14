@@ -1,0 +1,85 @@
+name: Fetch weather
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"
+
+jobs:
+  fetch-weather:
+    runs-on: ubuntu-latest
+    env:
+      GH_TOKEN: ${{ secrets.GH_TOKEN }}
+      OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
+      LAT: 39.90
+      LON: 116.41
+      
+    steps:
+      - name: Checkout
+        run: |
+          git config --global user.email "git@github.com"
+          git config --global user.name "Kangyu-Wang"
+          git config --global credential.helper store
+          git clone -b dev https://Kangyu-Wang:$GH_TOKEN@github.com/Kangyu-Wang/kangyu-wang.github.io dev
+          git clone -b prod https://Kangyu-Wang:$GH_TOKEN@github.com/Kangyu-Wang/kangyu-wang.github.io prod
+          
+      - name: Update DNS
+        run: |
+          sudo chown -R runner:runner /run/systemd/resolve/stub-resolv.conf
+          sudo echo nameserver 8.8.8.8 >> /run/systemd/resolve/stub-resolv.conf
+
+      - name: Update weather
+        run: |
+          outputs=$(curl "https://api.openweathermap.org/data/2.5/weather?lat=${LAT}&lon=${LON}&appid=${OPENWEATHER_API_KEY}&units=metric" | jq -r '(.weather[0] | (.icon) + "&" + (.description)) + "#" + (.main.temp | round | tostring)')
+          icon=$(echo "$outputs" | sed 's|&.*||')
+          description=$(echo "$outputs" | sed 's|.*&||' | sed 's|#.*||')
+          temperature=$(echo "$outputs" | sed 's|.*#||')
+          cd dev
+          curl "https://openweathermap.org/img/wn/${icon}.png" -o assets/weather.png
+          sed -i -e "s|alt=\"[^\"]*\" |alt=\"$description\" |" ./text/footer.md
+          sed -i -e "s|> .*\&deg\;|> ${temperature}\&deg\;|" ./text/footer.md
+          sed -i -e "s|\&deg\;C, .*in my|\&deg\;C, ${description} in my|" ./text/footer.md
+          cd ../prod
+          cp ../dev/assets/weather.png assets/weather.png
+          sed -i -e "s|alt=\"[^\"]*\" |alt=\"$description\" |" ./text/footer.md
+          sed -i -e "s|> .*\&deg\;|> ${temperature}\&deg\;|" ./text/footer.md
+          sed -i -e "s|\&deg\;C, .*in my|\&deg\;C, ${description} in my|" ./text/footer.md
+
+      - name: Commit to dev
+        working-directory: dev
+        run: |
+          getdiffcode() {
+            git diff --quiet
+            echo $?
+          }
+          if [ "$(getdiffcode)" == 1 ]; then 
+            time=$(date +%F-%H)
+            sed -i -e "s,src=\"assets\/weather\.png.*\" alt,src=\"assets\/weather\.png\?hour=$time\" alt,g" ./text/footer.md   # append date to force overwriting caching
+            lastmsg=$(git log -1 --pretty=%B | xargs)
+            if [ "$lastmsg" == "weatherbot" ]; then
+              git add . && git commit --amend -m "weatherbot" && git push -f origin
+            else
+              git add . && git commit -m "weatherbot" && git push origin
+            fi
+          else
+            git diff --exit-code
+          fi
+      
+      - name: Commit to prod
+        working-directory: prod
+        run: |
+          getdiffcode() {
+            git diff --quiet
+            echo $?
+          }
+          if [ "$(getdiffcode)" == 1 ]; then    
+            time=$(date +%F-%H)
+            sed -i -e "s,src=\"assets\/weather\.png.*\" alt,src=\"assets\/weather\.png\?hour=$time\" alt,g" ./text/footer.md   # append date to force overwriting caching
+            lastmsg=$(git log -1 --pretty=%B | xargs)
+            if [ "$lastmsg" == "weatherbot" ]; then
+              git add . && git commit --amend -m "weatherbot" && git push -f origin 
+            else
+              git add . && git commit -m "weatherbot" && git push origin
+            fi
+          else
+            git diff --exit-code
+          fi
