@@ -16,11 +16,11 @@ nav:
     title: Research
     url: /research
   item3:
+    title: Talks
+    url: /talks
+  item4: 
     title: Teaching
     url: /teaching
-  item4: 
-    title: '&#123; x ∉ Maths &#125;'
-    url: /non-maths
   item5:
-    title: Collection
-    url: /collection
+    title: Services & Other Affliations
+    url: /services-affiliations
