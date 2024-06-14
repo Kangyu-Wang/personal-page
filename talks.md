@@ -1,4 +1,4 @@
 ---
 layout: main
 ---
-{% include block.html text="text/collection.md" %}
+{% include block.html text="text/talks.md" %}
