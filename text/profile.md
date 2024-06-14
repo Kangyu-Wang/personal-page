@@ -1,8 +1,7 @@
-I am a PhD candidate at the [Gatsby Computational Neuroscience Unit at UCL](https://www.ucl.ac.uk/gatsby/), supervised by [Peter Orbanz](http://www.gatsby.ucl.ac.uk/~porbanz/) and [Morgane Austern](https://sites.google.com/view/morganeaustern/). I study mathematical structures of large stochastic systems that emerge in machine learning settings, and the associated theory and algorithms for estimation, prediction and uncertainty quantification. I am particularly interested in settings where data are scarce, high-dimensional, and/or strongly correlated.
+Hi! I am a PhD candidate at [Department of Philosophy, Logic & Scientific Method](https://www.lse.ac.uk/philosophy/), the London School of Economics, supervised by [Dr Campbell Brown](https://philpeople.org/profiles/campbell-brown) and [Dr Kieran Oberman](https://philpeople.org/profiles/kieran-oberman) and previously by [Prof Johanna Thoma](https://johannathoma.com/).
 
-I organise the [Foundations and Landmarks reading group](https://foundations-landmarks.notion.site/) with [Max Hird](https://www.linkedin.com/in/max-hird-366a30b4/), a biweekly reading group based in London, reviewing foundational papers in probability and statistics. 
+I mainly work on ethics, political philosophy, decision theory and practical reason, and philosophy of economics. I also have projects on the meaning in life, philosophy of AI, and philosophy of finance. 
 
-Prior to my PhD, I received my [Bachelor and Master in Mathematics](https://www.maths.cam.ac.uk/) from [Magdalene College](https://www.magd.cam.ac.uk/), [University of Cambridge](https://www.cam.ac.uk/about-the-university). I was a visiting researcher at the [LIPS group at Princeton CS](https://lips.cs.princeton.edu/) for Spring 2024, where I worked on neural-network ansatzs for crystalline solids. 
+Prior to my PhD, I received an LL.M. in Philosophy, Politics and Economics from Renmin University of China in Beijing and an MSc in Philosophy and Public Policy from LSE. I was a visiting PhD student at the Australian National University sponsored by [Prof Katie Steele](https://katiesteelephilosophy.weebly.com/) and then at University of Toronto sponsored by [Prof Sergio Tenenbaum](https://www.sergiotenenbaum.org/homepage.html) in the second half of 2023, and at Rutgers-New Brunswick sponsored by [Prof Mike Otsuka](https://sites.rutgers.edu/michael-otsuka/people/michael-otsuka/) in Spring 2024.
 
-I also do [nonprofit work, software development, and a bit of cooking](/non-maths) on the side.
-
+[CV link](/assets/KangyuWang-CV-24.6.docx)
