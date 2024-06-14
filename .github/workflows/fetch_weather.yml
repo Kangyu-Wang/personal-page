@@ -10,8 +10,8 @@ jobs:
     env:
       GH_TOKEN: ${{ secrets.GH_TOKEN }}
       OPENWEATHER_API_KEY: ${{ secrets.OPENWEATHER_API_KEY }}
-      LAT: 23.36
-      LON: 116.72
+      LAT: 39.90
+      LON: 116.41
       
     steps:
       - name: Checkout
