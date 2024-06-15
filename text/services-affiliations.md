@@ -6,5 +6,5 @@
 
 &nbsp;
 
-## Other Affilications 
+## Other Affiliations 
 - **Research Affiliate**, [*The Machine Intelligence and Normative Theory (MINT) Lab*](https://mintresearch.org/), Australian National University, since 11/2023
