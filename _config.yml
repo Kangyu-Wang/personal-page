@@ -15,12 +15,6 @@ nav:
   item2:
     title: Research
     url: /research
-  item3:
-    title: Talks
-    url: /talks
-  item4: 
+  item3: 
     title: Teaching
     url: /teaching
-  item5:
-    title: Services & Other Affliations
-    url: /services-affiliations
