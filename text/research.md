@@ -14,4 +14,4 @@ I also argue that in AI regulation and long-future-oriented policies alike, beca
 
 I also have two papers arguing that we should reject relational egalitarianism.
 
-My friend Paul Forrester (Yale) and I are working on some issues in finance. For example, we’ve been thinking about the connection between the diverge in investment returns in the long run between the rich and the poor and the difference in their risk appetites which is largely a matter of brute luck. 
+My friend [Paul Forrester (Yale)](https://philosophy.yale.edu/people/paul-forrester) and I are working on some issues in finance. For example, we’ve been thinking about the connection between the diverge in investment returns in the long run between the rich and the poor and the difference in their risk appetites which is largely a matter of brute luck. 
