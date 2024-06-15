@@ -1,16 +1,10 @@
-Just a notepad for some useful things.
-
-&nbsp;
-
-## Maths
-- [Topics in Random Matrix Theory](https://terrytao.files.wordpress.com/2011/02/matrix-book.pdf) by Terence Tao
-- [Analysis in Banach Spaces](https://link.springer.com/book/10.1007/978-3-319-48520-1) by Tuomas Hytönen, Jan van Neerven, Mark Veraar and Lutz Weis
-- [Foundations of Modern Probability](https://link.springer.com/book/10.1007/978-3-030-61871-1) by Olav Kallenberg
-- [High-Dimensional Statistics: A Non-Asymptotic Viewpoint](https://www.cambridge.org/core/books/highdimensional-statistics/8A91ECEEC38F46DAB53E9FF8757C7A4E) by Martin J. Wainwright
-- [Normal Approximation by Stein’s Method](https://link.springer.com/book/10.1007/978-3-642-15007-4) by Louis H.Y. Chen, Larry Goldstein, Qi-Man Shao
+## Academic Services
+- **Reviewer**, *Synthese*, since 6/2023
+- **Key organiser and Chair**, *The LSE Choice Group*, LSE Philosophy, since 9/2021
+- **Key organiser and Chair**, *The 5th London Graduate Workshop in Moral and Political Philosophy*, University of London, England, 2022
 
 
 &nbsp;
 
-## Dev
-- [Collection of web dev tools](https://toolkit.addy.codes/) by Adam Greenough 
+## Other Affilications 
+- **Research Affiliate**, [*The Machine Intelligence and Normative Theory (MINT) Lab*](https://mintresearch.org/), Australian National University, since 11/2023
