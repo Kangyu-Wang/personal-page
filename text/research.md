@@ -10,7 +10,7 @@ For a glimpse of my view on hard choice, you can read this [book review](https:/
 
 Some of my more applied side-projects flow out from my interest in decision-making under risk, uncertainty, and unawareness. For instance, I argue that the widening use of AI in finance can bring severe challenges to the current prudential regulation system.
 
-I also argue that in AI regulation and long-future-oriented policies alike, because of uncertainty and unawareness, surprisingly, it could sometimes be rational to focus more on short-term consequences and be more risk-taking—my slogan is “in the long run we are all dumb”. 
+I also argue that in AI regulation and long-future-oriented policies alike, because of uncertainty and unawareness, surprisingly, it could sometimes be rational to focus more on short-term consequences and be more risk-taking. The slogan is “in the long run we are all dumb”. 
 
 I also have two papers arguing that we should reject relational egalitarianism.
 
