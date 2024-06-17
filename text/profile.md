@@ -6,4 +6,4 @@ I received an LL.B. in Philosophy, Politics and Economics from Renmin University
 
 I am a co-organiser of [the LSE Choice Group](https://www.lse.ac.uk/philosophy/choice-group/). I am also a Research Affiliate at [The Machine Intelligence and Normative Theory (MINT) Lab](https://mintresearch.org), Australian National University. I reviewed for *Synthese*.
 
-[CV link](/assets/KangyuWang-CV-24.6.docx)
+[CV link](/assets/Kangyu_Wang-CV-24.6.17.docx)
