@@ -8,7 +8,7 @@ My PhD thesis, tentatively titled **Life Choices**, answers the following questi
 
 For a glimpse of my view on hard choices, you can read this [book review](https://www.cambridge.org/core/journals/economics-and-philosophy/article/abs/value-incommensurability-ethics-risk-and-decisionmaking-henrik-andersson-and-anders-herlitz-ed-routledge-2022-viii269-pages/BFD9EB3700CB8E7E70AF95349B0CB656#) I coauthored with Campbell Brown. 
 
-Some of my more applied side-projects flow out from my interest in decision-making under risk, uncertainty, and unawareness. For instance, I argue that the widening use of AI in finance can bring severe challenges to the current prudential regulation system.
+Some of my more applied side-projects flow out from my interest in decision-making under risk, uncertainty, and unawareness. For instance, I argue that the widening use of AI in finance can bring severe challenges to the current prudential regulation system. You can read my [LSE Philosophy blog article](https://www.lse.ac.uk/philosophy/blog/2024/08/05/how-ai-challenges-prudential-regulation/).
 
 I also argue that in AI regulation and long-future-oriented policies alike, due to uncertainty and unawareness, surprisingly, it could sometimes be rational to focus more on short-term consequences and be more risk-taking. The slogan is “in the long run we are all dumb”. 
 
