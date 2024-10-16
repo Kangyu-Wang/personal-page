@@ -1,5 +1,6 @@
 ## Academic Services
 - **Reviewer**, *Synthese*, since 6/2023
+- **Reviewer**, *Philosophy, Politics & Economics*, since 10/2024
 - **Key organiser and Chair**, *The LSE Choice Group*, LSE Philosophy, since 9/2021
 - **Key organiser and Chair**, *The 5th London Graduate Workshop in Moral and Political Philosophy*, University of London, England, 2022
 
