@@ -4,6 +4,6 @@ I mainly work on ethics, political philosophy, decision theory and practical rea
 
 I received an LL.B. in Philosophy, Politics and Economics from Renmin University of China and an MSc in Philosophy and Public Policy from LSE. I was a visiting PhD student at the Australian National University and then at University of Toronto in the second half of 2023, sponsored by [Prof Katie Steele](https://katiesteelephilosophy.weebly.com/) and [Prof Sergio Tenenbaum](https://www.sergiotenenbaum.org/homepage.html) respectively, and at Rutgers-New Brunswick in Spring 2024, sponsored by [Prof Mike Otsuka](https://sites.rutgers.edu/michael-otsuka/people/michael-otsuka/).
 
-I am a co-organiser of [the LSE Choice Group](https://www.lse.ac.uk/philosophy/choice-group/). I am also a Research Affiliate at [The Machine Intelligence and Normative Theory (MINT) Lab](https://mintresearch.org), Australian National University. I reviewed for *Synthese*.
+I am a co-organiser of [the LSE Choice Group](https://www.lse.ac.uk/philosophy/choice-group/). I am also a Research Affiliate at [The Machine Intelligence and Normative Theory (MINT) Lab](https://mintresearch.org), Australian National University. I reviewed for *Synthese* and *Philosophy, Politics & Economics*.
 
 [CV link](/assets/Kangyu_Wang_CV_24.8.14.pdf)
