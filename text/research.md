@@ -14,7 +14,7 @@ Some of my more applied projects flow out from my interest in decision-making un
 - Research on central banking, especially the way central banks inject liquidity and its normative impacts.
 - Research on the social costs of financialization and the power of financiers to manipulate the risk attitudes of other people.
 
-My friend [Paul Forrester (Yale)](https://philosophy.yale.edu/people/paul-forrester) and I are collaborating on some issues in philosophy of finance. For example, we’ve been thinking about the connection between the divergence in investment returns in the long run between the rich and the poor and the difference in their risk appetites which is largely a matter of brute luck. We are also thinking about the intergenerational distributive inequality of financial assets.
+I am also collaborating on some issues in philosophy of finance with my friend [Paul Forrester (Yale)](https://philosophy.yale.edu/people/paul-forrester). For example, we’ve been thinking about the connection between the divergence in investment returns in the long run between the rich and the poor and the difference in their risk appetites which is largely a matter of brute luck. We are also thinking about the ethics of social capital allocation and the intergenerational distributive inequality of financial assets.
 
 I've also been increasingly interested in **Machine Learning** or **AI**. For instance, I argue that the widening use of AI in finance can bring severe challenges to the current prudential regulation system. You can read my [LSE Philosophy blog article](https://www.lse.ac.uk/philosophy/blog/2024/08/05/how-ai-challenges-prudential-regulation/).
 
