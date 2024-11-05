@@ -6,7 +6,7 @@ My PhD thesis, tentatively titled **Life Choices**, answers the following questi
 - What makes some activities in our lives meaningful while others are not meaningful and to what extent does a meaningful life need to be project-driven?
 - And how should we think about our temporarily extended agencies to make sense of the importance of long-term commitments and projects given that people can and sometimes should change?
 
-For a glimpse of my view on hard choices, you can read this [book review](https://www.cambridge.org/core/journals/economics-and-philosophy/article/abs/value-incommensurability-ethics-risk-and-decisionmaking-henrik-andersson-and-anders-herlitz-ed-routledge-2022-viii269-pages/BFD9EB3700CB8E7E70AF95349B0CB656#) I coauthored with Campbell Brown. 
+For a glimpse of my view on hard choices, you can read this [book review](https://www.cambridge.org/core/journals/economics-and-philosophy/article/value-incommensurability-ethics-risk-and-decisionmaking-henrik-andersson-and-anders-herlitz-ed-routledge-2022-viii269-pages/BFD9EB3700CB8E7E70AF95349B0CB656) I coauthored with Campbell Brown. 
 
 Some of my more applied projects flow out from my interest in decision-making under risk and uncertainty and my interest in moral and political philosophy. For instance, I am developing a series of works in the **philosophy of finance**. These include:
 - Research on the normative consequences of the differences among various social groups in terms of the uncertainty about their risks in the context of insurance and banking.
